@@ -1,6 +1,6 @@
 
 # resource "aws_instance" "web-1" {
-#     ami = "${data.aws_ami.my_ami.id}"
+#     #ami = "${data.aws_ami.my_ami.id}"
 #     ami = "ami-0c7632fb77f35db43"
 #     availability_zone = "ap-south-1a"
 #     instance_type = "t3.micro"
